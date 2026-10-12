@@ -1,0 +1,5 @@
+❯ draft not sent
+─────────────────────────────────────────────────────
+  ⚠ Transcript saving is off — inherited CLAUDE_CO…
+  [PONYTAIL]
+  ⏵⏵ bypass permissions on (shift+tab to cycle)

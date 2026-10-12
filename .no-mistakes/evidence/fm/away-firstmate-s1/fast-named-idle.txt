@@ -1,0 +1,23 @@
+
+           Claude Code v2.1.296
+ ▐▛███▛█   Opus 5.5 with medium effort
+▝▜██████▀  Claude Max
+ ▝▝   ▝▝   ~/…/01M4Q6BV7FCW9KY4MHAAM13ZGA
+
+
+
+
+
+
+
+
+
+
+
+
+─────────────────────────── ↯  Dispatch second mate ─
+❯ Try "fix lint errors"
+─────────────────────────────────────────────────────
+  ⚠ Transcript saving is off — inherited CLAUDE_CO…
+  [PONYTAIL]
+  ⏵⏵ bypass permissions on (shift+tab to cycle)

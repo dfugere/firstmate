@@ -1,0 +1,24 @@
+
+           [0m[1mClaude Code [0m[38;2;102;102;102mv2.1.296[0m
+[0m[38;2;215;119;87m ▐[0m[38;2;215;119;87m[48;2;0;0;0m▛███▛█   [0m[38;2;102;102;102mOpus 5.5 with medium effort[0m
+[0m[38;2;215;119;87m▝▜[0m[38;2;215;119;87m[48;2;0;0;0m█████[0m[38;2;215;119;87m█▀  [0m[38;2;102;102;102mClaude Max[0m
+[0m[38;2;215;119;87m ▝▝   ▝▝   [0m[38;2;102;102;102m~/…/01M4Q6BV7FCW9KY4MHAAM13ZGA[0m
+
+
+
+
+
+
+
+
+
+[0m[38;2;138;138;138m─────────────────────────── [0m[38;2;255;106;0m↯[0m[38;2;138;138;138m  Dispatch second mate ─[0m
+❯ draft not sent: Firstmate instruction waiting:
+
+  list "$FM_TASK_INBOX"/*.msg in your 'lab.inbox'
+  steering inbox, read and act on each in numeric
+  order, then mv each into its handled/.
+[0m[38;2;138;138;138m─────────────────────────────────────────────────────[0m
+  [0m[38;2;150;108;30m⚠ Transcript saving is off — inherited CLAUDE_CO…[0m
+  [0m[38;5;108m[PONYTAIL][0m
+  [0m[38;2;171;43;63m⏵⏵ bypass permissions on[0m[38;2;102;102;102m (shift+tab to cycle)[0m

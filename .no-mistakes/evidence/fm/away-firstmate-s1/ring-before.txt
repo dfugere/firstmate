@@ -1,0 +1,11 @@
+== BEFORE fix (base a1ecefb bin), target fm-lab-fast2-9770-25723:w1:p1
+ring rc=2
+-- pane after ring:
+
+
+─────────────────────────── ↯  Dispatch second mate ─
+❯ Try "fix lint errors"
+─────────────────────────────────────────────────────
+  ⚠ Transcript saving is off — inherited CLAUDE_CO…
+  [PONYTAIL]
+  ⏵⏵ bypass permissions on (shift+tab to cycle)

@@ -1,0 +1,9 @@
+─────────────────────────── ↯  Dispatch second mate ─
+❯ draft not sent: Firstmate instruction waiting:
+  list "$FM_TASK_INBOX"/*.msg in your 'lab.inbox'
+  steering inbox, read and act on each in numeric
+  order, then mv each into its handled/.
+─────────────────────────────────────────────────────
+  ⚠ Transcript saving is off — inherited CLAUDE_CO…
+  [PONYTAIL]
+  ⏵⏵ bypass permissions on (shift+tab to cycle)
